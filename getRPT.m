@@ -204,4 +204,6 @@ if nodeType == 2.0
 end
 end
 
-%% a = 1
+%% a = 2
+%% b = 1
+%% c = b

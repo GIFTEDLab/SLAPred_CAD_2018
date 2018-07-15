@@ -13,3 +13,4 @@ for i = 1:nStlFiles
     imExtract(fullfile(StlFilePath, StlFiles(i).name));
 end
 
+%% a = 1

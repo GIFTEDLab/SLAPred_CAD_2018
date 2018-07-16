@@ -204,6 +204,5 @@ if nodeType == 2.0
 end
 end
 
-%% a = 2
-%% b = 1
-%% c = b
+%% a = 1
+%% went back to change_getRPT.m
